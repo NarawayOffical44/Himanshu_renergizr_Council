@@ -58,30 +58,6 @@ export default function About() {
       </div>
     </section>
 
-    <section className="section">
-      <div className="container narrow">
-        <span className="kicker">Registrations</span>
-        <h2>Legal &amp; registrations</h2>
-        <ul className="reg-list">
-          <li><strong>Entity type:</strong> Section 8 not-for-profit company</li>
-          {/* Add CIN and Section 8 licence number once confirmed */}
-        </ul>
-      </div>
-    </section>
-
-    <section className="section credits alt" id="photo-credits">
-      <div className="container narrow">
-        <h2>Photo credits</h2>
-        <ul>
-          <li>Hellishei&eth;i Geothermal Power Plant &mdash; Mathieu Neville, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">CC BY 4.0</a>, via <a href="https://commons.wikimedia.org/wiki/File:The_Hellishei%C3%B0i_Geothermal_Power_Plant,_2018,_Iceland.jpg" rel="noopener">Wikimedia Commons</a></li>
-          <li>Wairakei Geothermal Power Plant &mdash; Ingolfson, public domain, via <a href="https://commons.wikimedia.org/wiki/File:Wairakei_Geothermal_Power_Plant.jpg" rel="noopener">Wikimedia Commons</a></li>
-          <li>Photovoltaic power station &mdash; Chris Allan, U.S. Department of Energy, public domain, via <a href="https://commons.wikimedia.org/wiki/File:A_photovoltaic_power_station_in_the_United_States_(36130544874).jpg" rel="noopener">Wikimedia Commons</a></li>
-          <li>Blundell Geothermal Power Plant &mdash; Dr. Jonathan Ajo-Franklin, CC0, via <a href="https://commons.wikimedia.org/wiki/File:Blundell_Geothermal_Power_Plant_Cooling_System.jpg" rel="noopener">Wikimedia Commons</a></li>
-          <li>Transmission Lines at Sunset &mdash; Kkiefuik, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">CC BY 4.0</a>, via <a href="https://commons.wikimedia.org/wiki/File:Transmission_Lines_at_Sunset.jpg" rel="noopener">Wikimedia Commons</a></li>
-          <li>Idukki Dam Reservoir, Kerala &mdash; Timothy A. Gonsalves, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener">CC BY-SA 4.0</a>, via <a href="https://commons.wikimedia.org/wiki/File:Idukki_Dam_Reservoir_Hillview_Pano_Kerala_Mar22_R16_05581-Pano.jpg" rel="noopener">Wikimedia Commons</a></li>
-        </ul>
-      </div>
-    </section>
   </Page>
   );
 }

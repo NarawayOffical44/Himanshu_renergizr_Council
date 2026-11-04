@@ -64,7 +64,7 @@ export default function Layout() {
             <p><a href="https://wa.me/919318343243">WhatsApp</a></p>
           </div>
         </div>
-        <p className="copyright">&copy; {new Date().getFullYear()} Bharat Geothermal &amp; Energy Council. A Section 8 not-for-profit company. All rights reserved. &middot; <Link to="/about#photo-credits">Photo credits</Link></p>
+        <p className="copyright">&copy; {new Date().getFullYear()} Bharat Geothermal &amp; Energy Council. A Section 8 not-for-profit company. All rights reserved.</p>
       </footer>
     </>
   );
