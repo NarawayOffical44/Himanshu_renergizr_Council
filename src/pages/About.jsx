@@ -55,6 +55,15 @@ export default function About() {
             <ul className="tags"><li>Chartered Chemist</li><li>Radiological Safety Officer approved by the Atomic Energy Regulatory Board (2013&ndash;18)</li><li>Postgraduate Diploma in Radiological Physics, Bhabha Atomic Research Centre</li><li>Postgraduate Diploma in Business Management</li></ul>
           </div>
         </article>
+        <article className="card leader">
+          <div>
+            <h3>Aawesh Dahiya</h3>
+            <p className="role">Deputy Ambassador, South Asia</p>
+            <p>Deputy Ambassador for South Asia at the Intergovernmental Institution for the use of Micro-algae Spirulina Against Malnutrition, a United Nations Economic and Social Council mission.</p>
+            <p>A senior professional with over 20 years of experience in engineering, business analysis, operations and strategic leadership across the telecommunications, energy and information technology sectors. A graduate in Electronics and Telecommunication Engineering, he progressed from network engineering through sales and business development into senior leadership.</p>
+            <p>As Director at Spiktel Technologies Private Limited, he led business analysis, business development and consultancy services, particularly in blockchain. He combines technical knowledge, business insight and operational expertise to drive organisational growth and process improvement.</p>
+          </div>
+        </article>
       </div>
     </section>
 

@@ -347,3 +347,5 @@ h2 { font-weight: 700; letter-spacing: -0.02em; }
 .container.narrow { width: min(1180px, 90%); max-width: none; }
 .container.narrow > * { max-width: 800px; }
 .container.narrow.center > * { margin-inline: auto; }
+.contact-card .team-heading { margin-top: 2.5rem; }
+.leader + .leader { margin-top: 3rem; }

@@ -36,6 +36,12 @@ export default function Contact() {
             <li><strong>Email</strong><br /><a href="mailto:bhupesh@bharatgeoenergy.com">bhupesh@bharatgeoenergy.com</a></li>
             <li><strong>WhatsApp</strong><br /><a href="https://wa.me/919318343243">Message us on WhatsApp</a></li>
             <li><strong>Website</strong><br />bharatgeoenergy.com</li>
+          </ul>
+          <h2 className="team-heading">Our team</h2>
+          <ul className="reg-list">
+            <li><strong>Dr. Bhupesh Sharma, Ph.D.</strong><br /><a href="mailto:bhupeshshriram@gmail.com">bhupeshshriram@gmail.com</a><br /><a href="tel:+919318343243">+91 93183 43243</a></li>
+            <li><strong>Himanshu Gupta</strong><br /><a href="mailto:himanshu.gupta191@gmail.com">himanshu.gupta191@gmail.com</a><br /><a href="tel:+918970537156">+91 89705 37156</a></li>
+            <li><strong>Aawesh Dahiya</strong><br /><a href="mailto:aawesh@spiktel.com">aawesh@spiktel.com</a><br /><a href="tel:+919958640640">+91 99586 40640</a></li>
             {/* Add office address and Google Maps embed once confirmed */}
           </ul>
         </aside>
