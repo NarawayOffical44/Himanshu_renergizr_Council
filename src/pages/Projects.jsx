@@ -26,9 +26,24 @@ export default function Projects() {
         <h2>Projects with our partners</h2>
         <div className="cards three">
           <article className="card project"><span className="tag">Completed</span><h3>5 Kilowatt Geothermal Prototype</h3><p className="meta">Delhi &middot; Partner: Renergizr Industries</p><p>Prototype geothermal power unit in Delhi, inaugurated in November 2022 by officials of the Ministry of New &amp; Renewable Energy and the Geological Survey of India.</p></article>
-          <article className="card project"><span className="tag">Completed</span><h3>20 Kilowatt Geothermal Pilot</h3><p className="meta">Manuguru, Telangana &middot; Partner: Renergizr Industries</p><p>Field demonstration with Singareni Collieries Company Limited at a site with an estimated 122 megawatts geothermal potential, achieving 16 gigajoules of energy savings.</p></article>
+          <article className="card project"><span className="tag">Completed</span><h3>20 Kilowatt Geothermal Pilot</h3><p className="meta">Manuguru, Telangana &middot; Partner: Renergizr Industries</p><p>Sanctioned by the Ministry of Coal and commissioned in February 2023 with Singareni Collieries Company Limited. It runs on 65 to 68 degree Celsius hot water in the Godavari Basin, at a site with an estimated 122 megawatts geothermal potential, and has achieved 16 gigajoules of energy savings.</p></article>
           <article className="card project"><span className="tag tag-muted">In development</span><h3>Clean Energy Genset System</h3><p className="meta">Pan-India &middot; Partner: Renergizr Industries</p><p>Modular 5 kilowatt to 1 megawatt gensets generating zero-emission electricity from wastewater and green hydrogen, with noise below 45 decibels.</p></article>
         </div>
+      </div>
+    </section>
+
+    <section className="section">
+      <div className="container">
+        <span className="kicker">Milestones</span>
+        <h2>From sanction to national recognition</h2>
+        <ol className="timeline">
+          <li><span className="when">April 2021</span><div><h3>Government sanction</h3><p>The Ministry of Coal sanctioned the 20 kilowatt geothermal pilot at Manuguru, Telangana, based on closed-loop Binary Organic Rankine Cycle technology, with an outlay of &#8377;172.28 lakh under its science and technology plan.</p></div></li>
+          <li><span className="when">November 2022</span><div><h3>5 kilowatt prototype in Delhi</h3><p>India&rsquo;s first indigenous geothermal power prototype was demonstrated using a 65 degree Celsius hot water source.</p></div></li>
+          <li><span className="when">February 2023</span><div><h3>Manuguru pilot commissioned</h3><p>The 20 kilowatt plant began generating power from actual geothermal resources, a first for India. The process is protected by Indian Patent No. 548040.</p></div></li>
+          <li><span className="when">June 2024</span><div><h3>Community outreach</h3><p>Residents of Pagaderu village, Manuguru, visited the plant to see geothermal power generation first-hand.</p></div></li>
+          <li><span className="when">April 2025</span><div><h3>Cover story in Akshay Urja</h3><p>The Ministry of New and Renewable Energy&rsquo;s newsletter featured the work as its cover story, &ldquo;Harnessing Geothermal Energy: The Potential Unfolds&rdquo;.</p></div></li>
+          <li><span className="when">Next</span><div><h3>1 megawatt plant in Ladakh</h3><p>A 1 megawatt geothermal power plant is being planned in Ladakh, in areas such as Puga and Chumathang, with the Oil and Natural Gas Corporation, the Ministry of New and Renewable Energy and the Geological Survey of India.</p></div></li>
+        </ol>
       </div>
     </section>
 

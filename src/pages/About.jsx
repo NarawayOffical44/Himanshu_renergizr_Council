@@ -57,6 +57,13 @@ export default function About() {
         </article>
         <article className="card leader">
           <div>
+            <h3>Himanshu Gupta</h3>
+            <p className="role">Geothermal technology</p>
+            <p>A co-developer of India&rsquo;s first indigenous geothermal power technology, including the turbine for low-boiling fluids. He worked on the 5 kilowatt Delhi prototype and the 20 kilowatt Manuguru pilot, credited by the Ministry of New and Renewable Energy&rsquo;s Akshay Urja newsletter.</p>
+          </div>
+        </article>
+        <article className="card leader">
+          <div>
             <h3>Aawesh Dahiya</h3>
             <p className="role">Deputy Ambassador, South Asia</p>
             <p>Deputy Ambassador for South Asia at the Intergovernmental Institution for the use of Micro-algae Spirulina Against Malnutrition, a United Nations Economic and Social Council mission.</p>

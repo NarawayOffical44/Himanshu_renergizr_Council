@@ -349,3 +349,8 @@ h2 { font-weight: 700; letter-spacing: -0.02em; }
 .container.narrow.center > * { margin-inline: auto; }
 .contact-card .team-heading { margin-top: 2.5rem; }
 .leader + .leader { margin-top: 3rem; }
+.timeline { list-style: none; display: grid; gap: 2rem; margin-top: 1.5rem; max-width: 860px; }
+.timeline li { display: grid; grid-template-columns: 9rem 1fr; gap: 1.5rem; }
+.timeline .when { font-weight: 700; color: var(--saffron); padding-top: .15rem; }
+.timeline h3 { margin-bottom: .35rem; }
+@media (max-width: 720px) { .timeline li { grid-template-columns: 1fr; gap: .35rem; } }
