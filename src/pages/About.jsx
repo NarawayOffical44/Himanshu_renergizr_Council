@@ -42,6 +42,15 @@ export default function About() {
       </div>
     </section>
 
+    <section className="section">
+      <div className="container narrow">
+        <span className="kicker">In the news</span>
+        <h2>Featured by the Ministry of New and Renewable Energy</h2>
+        <p>The April 2025 issue of Akshay Urja, the Ministry of New and Renewable Energy&rsquo;s official newsletter, carried India&rsquo;s first indigenous geothermal power plant as its cover story: &ldquo;Harnessing Geothermal Energy: The Potential Unfolds&rdquo;. The article covers the 5 kilowatt Delhi prototype, the 20 kilowatt Manuguru plant and the way forward for geothermal power in India.</p>
+        <p><a className="btn" href="/documents/akshay-urja-april-2025.pdf" target="_blank" rel="noopener">Read the Akshay Urja cover story (PDF, 4 MB)</a></p>
+      </div>
+    </section>
+
     <section className="section alt">
       <div className="container">
         <span className="kicker">Leadership</span>
