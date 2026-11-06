@@ -52,6 +52,8 @@ export default function About() {
             <h3>Dr. Bhupesh Sharma, Ph.D.</h3>
             <p className="role">Chairman</p>
             <p>A material scientist with over 35 years of industrial research experience across private and government industries, and an expert in hydrogen and fuel cells. Dr. Sharma is a co-inventor of an Indian patent for generating electricity from geothermal sources.</p>
+            <p>He was a member of the 27th and 28th Indian Scientific Expeditions to Antarctica for the Ministry of Earth Sciences, carrying out long-term environmental monitoring at the Maitri research base. In 2010 he joined the Department of Atomic Energy team at India&rsquo;s first public radiation accident in Mayapuri, Delhi, and was recognised for that work. He has also served on the Atomic Energy Regulatory Board&rsquo;s Exposure Investigation Committee for the Northern Region.</p>
+            <p>His work includes 20 research papers, 3 book chapters, 2 patents and 3 awards, along with technologies taken from laboratory to commercial scale in radiation processing, fly ash utilisation, plastic waste recycling and medical blood bags.</p>
             <ul className="tags"><li>Chartered Chemist</li><li>Radiological Safety Officer approved by the Atomic Energy Regulatory Board (2013&ndash;18)</li><li>Postgraduate Diploma in Radiological Physics, Bhabha Atomic Research Centre</li><li>Postgraduate Diploma in Business Management</li></ul>
           </div>
         </article>
